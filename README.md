@@ -26,6 +26,13 @@ Nelle successive 3 righe, bisogna inserire le 3 risposte possibili.
 Nella successiva riga finale, bisogna inserire il numero della risposta esatta.
 Così facendo, se si vuole inserire una nuova domanda, basta aggiungere il nuovo file con il formato spiegato dentro la cartella **questions**. Successivamente, aggiungere tale file alla `List<String> questions` nella classe `DescrizioneAlgoritmi.java`.
 
+### Strutture Dati Utilizzate
+
+- **Coda** per Bellman-Ford (implementata con LinkedList)
+- **Coda con priorità** per Dijkstra (implementata con ArrayList e Generics)
+- **Mappa di adiacenza** per rappresentare il grafo
+- **HashMap** per gestire le distanze minime
+
 ## Installazione
 
 ### Prerequisiti
@@ -56,18 +63,12 @@ Sempre dalla stessa cartella, lanciare:
 ```bash
 java --module-path "path-to-javafx/lib" --add-modules javafx.controls,javafx.fxml -cp "bin:." WelcomePage
 ```
-### Strutture Dati Utilizzate
 
-- **Coda** per Bellman-Ford (implementata con LinkedList)
-- **Coda con priorità** per Dijkstra (implementata con ArrayList e Generics)
-- **Mappa di adiacenza** per rappresentare il grafo
-- **HashMap** per gestire le distanze minime
-
-### Licenza
+## Licenza
 
 Questo progetto è rilasciato sotto licenza **MIT**.
 
-### Autori 
+## Autori 
 
 - Luca Cotugno
 - Pierpaolo Faustini
