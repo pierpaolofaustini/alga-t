@@ -1,0 +1,7 @@
+Domanda 2: Quale struttura dati viene usata nell'algoritmo di Bellman-Ford?
+Coda 
+Coda con priorità
+Coda con priorità, realizzata tramite Heap binario
+1
+Corretto!
+La struttura dati usata dall'algoritmo di Bellman-Ford è una semplice coda.

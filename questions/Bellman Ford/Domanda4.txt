@@ -1,0 +1,7 @@
+Domanda 1: Quante volte può essere visitato al massimo un nodo?
+n-1 volte
+n volte
+n-2 volte
+1
+Corretto!
+Ogni nodo può essere visitato n-1 volte cioè può essere estratto dalla coda al massimo n-1 volte

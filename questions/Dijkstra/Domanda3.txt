@@ -1,0 +1,7 @@
+Domanda 3: A cosa serve l'algoritmo di Dijkstra?
+Per trovare i cammini minimi in un grafo
+Per ordinare una struttura dati
+Per calcolare il flusso massimo in un grafo
+1
+Corretto! 
+Il problema dei cammini minimi è un problema fondamentale nella teoria dei grafi, e l'algoritmo di Dijkstra, pubblicato nel 1959, è tuttora in uso e preso a modello di riferimento.

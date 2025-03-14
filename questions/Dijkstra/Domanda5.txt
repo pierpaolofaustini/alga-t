@@ -1,0 +1,7 @@
+Domanda 5: Che tipo di grafo può essere utilizzato per l'algoritmo di Dijkstra?
+Bipartito 
+Planare
+Ciclico ed orientato oppure non orientato
+3
+Corretto! 
+L'algoritmo di Dijkstra funziona su grafi ciclici, indipendentemente dal fatto che siano orientati o no.

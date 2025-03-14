@@ -1,0 +1,7 @@
+Domanda 1: Qual è la complessità dell'algoritmo di Bellman Ford?
+O(n^2)
+O(n)
+O(nm)
+3
+Corretto!
+Siccome ad ogni passata la coda contiene al più tutti i nodi e ad ogni passata si esaminano al più tutti gli archi, l'algoritmo ha complessità O(n(m+n)) = O(nm)

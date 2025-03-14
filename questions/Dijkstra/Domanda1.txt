@@ -1,0 +1,2 @@
+Domanda 1: Qual è la complessità dell'algoritmo di Dijkstra con archi di sola lunghezza positiva?O(n)O(n^2)O(n^3)2Corretto! 
+Il ciclo while viene ripetuto n volte e nel while la rimozione del nodo ha costo O(n). In conclusione quindi, il costo complessivo è O(n^2). 

@@ -1,0 +1,7 @@
+Domanda 4: Qual è la complessità dell'algoritmo di Dijkstra con archi di lunghezza anche negativa?
+O(n^2)
+O(n^3)
+Superpolinomiale
+3
+Corretto! 
+Se gli archi hanno anche lunghezza negativa il costo dell'algoritmo passa a superpolinomiale.

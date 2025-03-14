@@ -1,0 +1,7 @@
+Domanda 1: Cosa cambia nell'algoritmo di Bellman-Ford rispetto a quello di Dijkstra? 
+La complessità è minore
+Tutti i nodi avranno peso negativo
+Ci possono essere archi di lunghezza negativa
+3
+Corretto!
+L'algoritmo di Bellman-Ford anche se ha complessità maggiore dell'algoritmo di Dijkstra riesce a risolvere il problema in presenza di archi con lunghezza negativi.

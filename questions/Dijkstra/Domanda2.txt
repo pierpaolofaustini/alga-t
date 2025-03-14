@@ -1,0 +1,2 @@
+Domanda 2: Qual è la la struttura dati di supporto usata per implementare l'algoritmo di Dijkstra? CodaPilaCoda con priorità3Corretto! 
+E' una coda con priorità in cui la priorità associata ad ogni elemento equivale alla distanza dal nodo radice.

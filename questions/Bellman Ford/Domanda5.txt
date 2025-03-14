@@ -1,0 +1,7 @@
+Domanda 1: Su quali tipi di grafo può essere eseguito l'algoritmo di Bellman-Ford
+Solo orientati
+Solo non orientati
+Sia orientati sia non orientati
+3
+Corretto!
+L'algoritmo può essere eseguito sia su grafi orientati cioè con gli archi che hanno una direzione sia su grafi non orientati.
